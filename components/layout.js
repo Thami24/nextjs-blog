@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Link from 'next/link'
 
 const name = 'Tammany Cebekhulu'
-export const siteTitle = 'Next.js Sample Website'
+export const siteTitle = 'Work improvement tips and tricks'
 
 export default function Layout({ children, home }) {
   return (
@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="Learn how to build a personal website using Next.js"
+          content="Learn how to impove your personal work productivity and skills"
         />
         <meta
           property="og:image"
